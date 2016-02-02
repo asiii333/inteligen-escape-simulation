@@ -1,4 +1,4 @@
-package pl.sp.escapeSimulation;
+package pl.sp.simulation;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
